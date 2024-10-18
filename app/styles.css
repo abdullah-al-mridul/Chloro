@@ -1,0 +1,12 @@
+.background__mask {
+  background: url("/main-bg-mask.jpg");
+  background-size: cover;
+  background-position: center;
+}
+::-webkit-scrollbar {
+  background: white;
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: #023a15;
+}
